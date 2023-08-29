@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QRScanner</string>
+    <string name="link_example">www.hello-world.com</string>
+    <string name="date_example">29 aug 2023</string>
+    <string name="web_search">Web search</string>
+    <string name="share">Share text</string>
+    <string name="copy">Copy text</string>
+    <string name="scan">Scan Now</string>
+    <string name="name">QR Code Scanner</string>
+</resources>
